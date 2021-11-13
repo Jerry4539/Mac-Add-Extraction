@@ -1,5 +1,6 @@
 # Mac-Add-Extraction
 The script is fully designed by python and its to powerful that it can even get iPhone Mac address also. 
+(This tool is designed for kali-linux only) 
 # Linux installoation
 $ apt-get update -y
 $ apt-get upgrade -y
